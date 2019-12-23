@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+table{
+  width: 90%;
+  /* table-layout: fixed; */
+  border-collapse: collapse;
+  margin: auto;
+
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+
+
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  color: yellow;
+  background: rgb(102,51,153)	;
+}
+
+.nav-links{
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-links li{
+  color: white;
+}
+
