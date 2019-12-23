@@ -7,8 +7,8 @@
 # to run locally:
 - git clone -repo-
 - npm install
-- npm run start
 - pm2 start process.config.js
+- visit your localhost at port 3004
 
 # requirements
 - mongodb
