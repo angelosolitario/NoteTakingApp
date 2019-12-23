@@ -1,9 +1,8 @@
-# Homework 3 - Team Steph Curry
-Missing:
-- redis
-- display how many users are online
-- cookies
-- auth server
+# Note Taking Application
+- This is a simple note taking application
+-**FRONTEND**: React, Redux
+-**BACKEND**: NodeJS, Express
+-**Database**: MongoDB(NoSQL)
 
 # to run locally:
 - git clone -repo-
