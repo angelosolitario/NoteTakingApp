@@ -13,3 +13,5 @@
 # requirements
 - mongodb
 - pm2
+
+![note-taking-app](https://user-images.githubusercontent.com/41652025/86317234-c5e04100-bbe3-11ea-9316-e816cb449175.png)
